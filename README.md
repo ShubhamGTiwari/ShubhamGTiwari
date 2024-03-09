@@ -1,7 +1,7 @@
 # Welcome to My GitHub Space 🚀
 
 ## About Me
-[Space]([https://www.istockphoto.com/en/photo/space-milky-way-gm1170047942-323647193])
+![Space](https://www.istockphoto.com/en/photo/space-milky-way-gm1170047942-323647193)
 
 Greetings Earthlings! I am a data science enthusiast on a cosmic journey to explore the universe of data. My passion lies in uncovering hidden patterns in data and translating them into actionable insights.
 
