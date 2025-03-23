@@ -24,6 +24,5 @@ Greetings Earthlings! I am a data science enthusiast on a cosmic journey to expl
 Feel free to explore more of my projects on [GitHub](https://github.com/your-username).
 
 ## Contact Me
-📧 Email: your-email@example.com  
-🌐 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)  
-🐦 Twitter: [@your-twitter-handle](https://twitter.com/your-twitter-handle)
+📧 Email:   
+🌐 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
